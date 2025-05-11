@@ -1,0 +1,5 @@
+# Ignore everything in ldash/
+ldash/*
+
+# Don't ignore 1.mpd
+!ldash/1.mpd
