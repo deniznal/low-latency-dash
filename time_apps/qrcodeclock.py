@@ -53,7 +53,7 @@ INDEX_HTML = f"""
     }}
 
     tick();
-    setInterval(tick, 350);
+    setInterval(tick, 333);
   </script>
 </body>
 </html>
